@@ -1,0 +1,12 @@
+c:\users\ahenders\documents\visual studio 2017\Projects\PowerCasts\PowerCasts\obj\Debug\PowerCasts.csprojResolveAssemblyReference.cache
+c:\users\ahenders\documents\visual studio 2017\Projects\PowerCasts\PowerCasts\bin\Debug\PowerCasts.exe.config
+c:\users\ahenders\documents\visual studio 2017\Projects\PowerCasts\PowerCasts\bin\Debug\PowerCasts.exe
+c:\users\ahenders\documents\visual studio 2017\Projects\PowerCasts\PowerCasts\bin\Debug\PowerCasts.pdb
+c:\users\ahenders\documents\visual studio 2017\Projects\PowerCasts\PowerCasts\obj\Debug\PowerCasts.exe
+c:\users\ahenders\documents\visual studio 2017\Projects\PowerCasts\PowerCasts\obj\Debug\PowerCasts.pdb
+C:\Users\ahenders\Documents\GitHub\PowerCasts\PowerCasts\PowerCasts\bin\Debug\PowerCasts.exe.config
+C:\Users\ahenders\Documents\GitHub\PowerCasts\PowerCasts\PowerCasts\bin\Debug\PowerCasts.exe
+C:\Users\ahenders\Documents\GitHub\PowerCasts\PowerCasts\PowerCasts\bin\Debug\PowerCasts.pdb
+C:\Users\ahenders\Documents\GitHub\PowerCasts\PowerCasts\PowerCasts\obj\Debug\PowerCasts.csprojResolveAssemblyReference.cache
+C:\Users\ahenders\Documents\GitHub\PowerCasts\PowerCasts\PowerCasts\obj\Debug\PowerCasts.exe
+C:\Users\ahenders\Documents\GitHub\PowerCasts\PowerCasts\PowerCasts\obj\Debug\PowerCasts.pdb
